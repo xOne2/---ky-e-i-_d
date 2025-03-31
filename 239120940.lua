@@ -1,3 +1,3 @@
 local whitelistPak = {
-    { Hwid = "", Key = "", ExpiryDate = math.huge, Permanent = true }, -- Key แบบถาวร
+    { Hwid = "123fgr3", Key = "4", ExpiryDate = math.huge, Permanent = true },
 }
