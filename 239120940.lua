@@ -1,5 +1,6 @@
 local whitelistPak = {
-    { Hwid = "lol", Key = "lol" },
+    { Hwid = "GG", Key = "GG" },
+{ Hwid = "lol", Key = "lol"},
 { Hwid = "PGs", Key = "PGs"},
 
 { Hwid = "xnxx", Key = "xnxx"},
