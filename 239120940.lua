@@ -1,3 +1,3 @@
 local whitelistPak = {
-    { Hwid = "231231", Key = "412412", ExpiryDate = math.huge, Permanent = true }
+    { Hwid = "2", Key = "2", ExpiryDate = math.huge, Permanent = true }
 }
