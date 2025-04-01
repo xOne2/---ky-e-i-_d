@@ -1,13 +1,4 @@
 local whitelistPak = {
-    { Hwid = "test", Key = "FLCadUHJsvN8mQh4", ExpiryDate = math.huge, Permanent = true },
-  { Hwid = "1119509280480038972", Key = "feVUGeZ8Zb0Wucg2", ExpiryDate = math.huge, Permanent = true},
-  { Hwid = "1119509280480038972", Key = "WQkOiXudrj71uYxy", ExpiryDate = math.huge, Permanent = true},
-  { Hwid = "1119509280480038972", Key = "IKGQAoekgSZyLEsh", ExpiryDate = math.huge, Permanent = true},
-  { Hwid = "1119509280480038972", Key = "FUByyhM9bB7OATEI", ExpiryDate = math.huge, Permanent = true},
-  { Hwid = "1119509280480038972", Key = "v5IlE35ce8tqSUe1", ExpiryDate = math.huge, Permanent = true},
-  { Hwid = "1119509280480038972", Key = "Y78EXD8ou0BaWN6R", ExpiryDate = math.huge, Permanent = true},
-  { Hwid = "q", Key = "q", ExpiryDate = math.huge, Permanent = true},
-  { Hwid = "x", Key = "x", ExpiryDate = math.huge, Permanent = true},
-  { Hwid = "7", Key = "7", ExpiryDate = math.huge, Permanent = true},
+
     
 }
