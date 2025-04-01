@@ -1,4 +1,5 @@
 local whitelistPak = {
+    { Key = "8ez8yl3hR2xdpi4y", HWID = "1"},
     { Key = "8ez8yl3hR2xdpi4y", HWID = "HWID 1"},
     { Key = "8ez8yl3hR2xdpi4y", HWID = "1"},
     { Key = "8ez8yl3hR2xdpi4y", HWID = "s"},
